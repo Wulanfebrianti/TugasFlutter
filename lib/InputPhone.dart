@@ -12,7 +12,7 @@ class _InputPhoneState extends State<InputPhone> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Input Number"),
+        title: Text("Input Phone"),
       ),
       body: Container(
         margin: EdgeInsets.all(10),
